@@ -1,0 +1,11 @@
+h1 {  
+    font-family: 'Montserrat, sans-serif';  
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+}
+
+.banner-corner {
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
